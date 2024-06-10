@@ -473,8 +473,13 @@ body {
       gap: 0.75rem;
     }
 
+    
     .footer {
       padding: 3.5rem 0.75rem 2.5rem 0.156rem;
+    }
+    
+    .footer__container  {
+      padding: 0 1.25rem;
     }
   }
 }
