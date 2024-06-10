@@ -292,7 +292,7 @@ body {
   max-width: 23rem;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1199px) {
   .layout {
     padding: 0 1.875rem;
     box-sizing: border-box;
